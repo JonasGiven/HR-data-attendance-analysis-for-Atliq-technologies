@@ -2,8 +2,6 @@
 
 This project aims to analyze the attendance data of employees at Atliq Technologies for the last three months. The goal is to provide insights to the HR Generalist regarding employee attendance patterns, retention strategies, and reasons behind sick leave percentages. Additionally, the analysis differentiates between Work From Home (WFH) and Work From Office (WFO) percentages.
 
-pandoc -f gfm --toc -s README.md -o r.md
-
 ## Project Description
 
 The HR Analytics Project involved extracting, transforming, and loading attendance data from an Excel file into Power BI Desktop. The transformed data was then used to generate valuable insights using visualizations and dashboards.
