@@ -77,7 +77,7 @@ FROM attendance.attendance_tb;
 
 Note: 'attendance' is the schema name, and 'attendance_tb' is the table name.
 
-You repeated this process for each month separately and saved the resulting tables.
+I repeated this process for each month separately and saved the resulting tables.
 
 **Step 3: Data Loading and Transformation in Power BI**
 1. Upload the saved tables from MySQL into Power BI.
