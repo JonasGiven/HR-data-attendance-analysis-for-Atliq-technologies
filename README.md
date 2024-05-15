@@ -64,7 +64,7 @@ To achieve this, follow these steps:
 Now, you have all the necessary columns to create DAX measures for SL%, WFH%, and P% in Power BI.
 
 **Step 2: Data Transformation in MySQL**
-When deleting unwanted columns (like employee names) in Excel, it affected the formulas for P, SL, WFH, and TWD, causing errors. To solve this, I used MySQL:
+When deleting unwanted columns (like the columns of individual employees) in Excel, it affected the formulas for P, SL, WFH, and TWD, causing errors. To solve this, I used MySQL:
 
 1. Create a schema for HR attendance in MySQL.
 2. Upload the modified data with the relevant columns to the MySQL table.
