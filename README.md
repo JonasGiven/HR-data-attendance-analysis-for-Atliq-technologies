@@ -31,6 +31,5 @@ The following technologies were utilized in this project:
 
 ## Results.
 
-Use this link to access the final visuals in powerBI. Note that the file is saved as a powerBi document, you might need to download PowerBI desktop or use the web. Also, it is editable.
-https://shorturl.at/nEGJK
+Use this link to access the final visuals in powerBI. You must copy this link and open a new tab on your browser, then paste it. https://shorturl.at/qrLUW
 
