@@ -33,7 +33,8 @@ The following technologies were used in this project:
 
 Here is the preview of the dashboard.
 
-![Uploading IMG_0091.jpeg…]()
+
+![IMG_0091](https://github.com/JonasGiven/HR-data-attendance-analysis-for-Atliq-technologies/assets/169194581/9e3faa56-1a34-498d-a556-03a763a995ef)
 
 
 Use this link to access the final visuals in powerBI. You must copy this link and open a new tab on your browser, then paste it. https://shorturl.at/qrLUW
