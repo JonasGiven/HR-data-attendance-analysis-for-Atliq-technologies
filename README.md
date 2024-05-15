@@ -109,3 +109,6 @@ Here is the preview of the dashboard.
 Use this link to access the dashboard in powerBI. You must copy this link and open a new tab on your browser, then paste it. https://shorturl.at/qrLUW .
 You might need to install powerBI desktop on your device first in order to access the file. You can follow this link to download PowerBI - https://shorturl.at/acfQY
 
+
+
+
