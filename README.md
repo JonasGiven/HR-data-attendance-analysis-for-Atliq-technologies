@@ -21,6 +21,12 @@ To accomplish the project objectives, the following steps were taken:
 3. **Creating Metrics using DAX**: Implement Data Analysis Expressions (DAX) to create key metrics, such as attendance percentages, sick leave percentages, WFH percentages, and more.
 4. **Dashboarding with Power BI Desktop**: Utilize Power BI Desktop to visualize the data and create interactive dashboards. Develop visualizations to provide insights into attendance trends, sick leave reasons, WFH vs. WFO percentages, and other relevant metrics.
 
+## Architecture diagram
+
+
+https://github.com/JonasGiven/HR-data-attendance-analysis-for-Atliq-technologies/assets/169194581/f0b99f8b-a25d-4c69-8fb4-3030e36119f3
+
+
 ## Technologies Used
 
 The following technologies were used in this project:
