@@ -31,5 +31,10 @@ The following technologies were used in this project:
 
 ## Results.
 
+Here is the preview of the dashboard.
+
+![Uploading IMG_0091.jpeg…]()
+
+
 Use this link to access the final visuals in powerBI. You must copy this link and open a new tab on your browser, then paste it. https://shorturl.at/qrLUW
 
