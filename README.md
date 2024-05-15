@@ -23,7 +23,7 @@ To accomplish the project objectives, the following steps were taken:
 
 ## Technologies Used
 
-The following technologies were utilized in this project:
+The following technologies were used in this project:
 
 - **MySQL**
 - **Excel**
