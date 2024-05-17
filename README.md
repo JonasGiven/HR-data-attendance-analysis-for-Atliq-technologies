@@ -109,6 +109,14 @@ Here is the preview of the dashboard.
 Use this link to access the dashboard in powerBI. You must copy this link and open a new tab on your browser, then paste it. https://shorturl.at/qrLUW .
 You might need to install powerBI desktop on your device first in order to access the file. You can follow this link to download PowerBI - https://shorturl.at/acfQY
 
+## Challenges and milestone
+
+Completing the PowerBI dashboard was a challenging experience for me. This was my first time using PowerBI, and George from Talent4startups/Dreamfactory gave us just a week to finish the project. However, it took everyone two weeks, and some even gave up.
+
+The hardest part was preparing the data, especially dealing with dates as rows. After a week of frustration and telling my girlfriend how tough it was, I finally had a breakthrough. I realized I needed to transpose the table in Excel and then use MySQL to remove unwanted columns. That was an "aha" moment, and everything became much easier after that.
+
+Now, I’m confident I can handle similar projects in a much shorter time.
+
 
 
 
