@@ -1,3 +1,5 @@
+![Black and green Data Visualization Basics modern presentation 2024-05-18 19_05_49](https://github.com/JonasGiven/HR-data-attendance-analysis-for-Atliq-technologies/assets/169194581/f9d69a7a-8d9a-48b1-97cc-0b4b31225aa1)
+
 # HR Analytics Project for Atliq Technologies
 
 This project aims to analyze the attendance data of employees at Atliq Technologies for the last three months. The goal is to provide insights to the HR Generalist regarding employee attendance patterns, retention strategies, and reasons behind sick leave percentages. Additionally, the analysis differentiates between Work From Home (WFH) and Work From Office (WFO) percentages.
